@@ -36,7 +36,7 @@ export function Navbar() {
           <Link href="/" className="flex items-center gap-2 flex-shrink-0">
             <span className="text-lg font-bold text-[#6366F1]">FinPlan</span>
             <span className="hidden sm:inline-block px-2 py-1 bg-[#EEF2FF] text-[#6366F1] text-xs font-medium rounded-md">
-              ESI 2CS
+              ESI 2CS 2026
             </span>
           </Link>
           
